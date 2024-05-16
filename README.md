@@ -21,7 +21,9 @@ Play the classic Tic-Tac-Toe game in the command line with this simple Go implem
 ## Usage
    
   -Clone this repository
+
   -Navigate to the project directory
+  
   -Run the game using this command: go run main.go
 
 ## Authors
